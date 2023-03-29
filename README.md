@@ -1,8 +1,20 @@
-# Testing strategy for Hexagonal Projects
-# Left Adapters
-## service module
-## batch module
+# Testing Strategy for Hexagonal Projects
+
 # Domain
+
+## Model
+
+## Service Adapters
+
+# Left Adapters
+
+## Rest module
+
+### Controllers
+### 
+
+## batch module
+
 # Right Adapters
 ## jpa module
 ## api module
